@@ -43,8 +43,12 @@ Ensemble Learning Basic to Advanced
         │   ├── Gradient Boosting Concept.ipynb
         │   └── Gradient Boosting Practical.ipynb
         │
-        └── XGBoost
-            ├── XGBoost Concept.ipynb
-            └── XGBoost Practical.ipynb
+        ├── XGBoost
+        │   ├── XGBoost Concept.ipynb
+        │   └── XGBoost Practical.ipynb
+        │
+        └── XGBoost Regression
+            ├── XGBoost Regression Concept.ipynb
+            └── XGBoost Regression Practical.ipynb
 ```
 
