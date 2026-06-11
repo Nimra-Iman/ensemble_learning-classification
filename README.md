@@ -16,30 +16,36 @@ Each technique contains:
 Concept File – Theoretical explanation of the algorithm.
 Practical File – Hands-on implementation using Python.
 ## 📂 Repository Structure
-Ensemble Learning Basic to Advanced/
+
+```text
+```
+Ensemble Learning Basic to Advanced
 │
-├── Basic/
-│   ├── Max Voting/
-│   │   ├── Concept
-│   │   └── Practical
+├── Basic Ensemble Techniques
 │   │
-│   ├── Average Voting/
-│   │   ├── Concept
-│   │   └── Practical
+│   ├── MaxVoting_Averaging_WeightedAverageVoting
 │   │
-│   └── Weighted Average Voting/
-│       ├── Concept
-│       └── Practical
+│   └── Average_WeightedAverage_Practical
 │
-└── Advanced/
-    ├── AdaBoost/
-    │   ├── Concept
-    │   └── Practical
+└── Advanced Ensemble Learning
     │
-    ├── Gradient Boosting/
-    │   ├── Concept
-    │   └── Practical
+    ├── Bagging
+    │   ├── Bagging and Types Concept.ipynb
+    │   └── Bagging and Types Practical.ipynb
     │
-    └── Extreme Gradient Boosting (XGBoost)/
-        ├── Concept
-        └── Practical
+    └── Boosting
+        │
+        ├── AdaBoost
+        │   ├── AdaBoost Concept.ipynb
+        │   └── AdaBoost Practical.ipynb
+        │
+        ├── Gradient Boosting
+        │   ├── Gradient Boosting Concept.ipynb
+        │   └── Gradient Boosting Practical.ipynb
+        │
+        └── XGBoost
+            ├── XGBoost Concept.ipynb
+            └── XGBoost Practical.ipynb
+```
+
+```
