@@ -18,7 +18,7 @@ Practical File – Hands-on implementation using Python.
 ## 📂 Repository Structure
 
 ```text
-```
+
 Ensemble Learning Basic to Advanced
 │
 ├── Basic Ensemble Techniques
@@ -48,4 +48,3 @@ Ensemble Learning Basic to Advanced
             └── XGBoost Practical.ipynb
 ```
 
-```
